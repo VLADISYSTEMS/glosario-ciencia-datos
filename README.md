@@ -30,3 +30,17 @@ Si no tienes Python instalado en tu computador, ¡tranquilo! Puedes correr este 
 5. Dale clic al botón ▶️ (Run) y mira los resultados.
 
 Así puedes practicar sin instalar nada en tu máquina. 🚀
+## 📊 Análisis de resultados
+
+- **Promedio de ventas:** 146 → en una semana típica la tienda vende alrededor de 146 unidades por día.  
+- **Desviación estándar:** 36.6 → significa que las ventas varían bastante entre los días (hay días muy altos y otros bajos).  
+- **Mayor venta:** 200 unidades → muestra el potencial de la tienda cuando la demanda es fuerte.  
+- **Menor venta:** 90 unidades → señala un día débil en el que las ventas bajaron mucho.  
+
+### 💡 Posible toma de decisiones
+- Identificar por qué en el día de 90 ventas hubo tan bajo rendimiento (¿fue por falta de stock, mala publicidad, día festivo?).  
+- Replicar las estrategias del día con **200 ventas** (promoción especial, mejor horario, mayor flujo de clientes).  
+- Reduciendo la brecha entre el mejor y peor día, la tienda puede aumentar la estabilidad y, con ello, la **entrada de dinero semanal**.  
+
+👉 **Conclusión educativa:**  
+Este mini análisis muestra cómo la **Ciencia de Datos** ayuda a transformar simples números en **acciones concretas**: mejorar producción, planear promociones y aumentar ingresos.
